@@ -1,0 +1,8 @@
+{
+  "data": "15/01/2024",
+  "servidores": [
+    "vpn1.exemplo.com:443",
+    "vpn2.exemplo.com:1194",
+    "vpn3.exemplo.com:51820"
+  ]
+}
